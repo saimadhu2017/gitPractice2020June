@@ -1,0 +1,95 @@
+1  ls
+    2  dir
+    3  cd Desktop/
+    4  pwd
+    5  git
+    6  git config user.
+    7  dir
+    8  cd ProjectOnGit/
+    9  cls
+   10  clear
+   11  ls
+   12  clear
+   13  git config --global user.name "saimadhu2017"
+   14  git config --global user.email 170030532@kluniversity.in
+   15  git config --list
+   16  git config --global core.editor nano
+   17  git config --list
+   18  git nano a.txt
+   19  git --nano a.txt
+   20  clear
+   21  ls
+   22  clear
+   23  javac Wipro1A.java
+   24  java Wipro1A
+   25  clear
+   26  ls
+   27  ls -1
+   28  cls
+   29  clear
+   30  git status
+   31  clear
+   32  git init
+   33  cd ..
+   34  cd ProjectOnGit/
+   35  cls
+   36  clear
+   37  git status
+   38  git add GeneralBank.class
+   39  git status
+   40  git add *
+   41  git status
+   42  git commit -m "Wipro programs"
+   43  clear
+   44  git status
+   45  git diff
+   46  git diff --cached
+   47  git diff --cached
+   48  git log
+   49  git remote add originurl
+   50  git remote add originurl
+   51  git remote add origin
+   52  git remote add origin https://github.com/saimadhu2017/gitPractice2020June.git
+   53  git push origin master
+   54  git push -f origin master
+   55  history
+   56  clear
+   57  history
+   58  clear
+   59  git branch V2
+   60  git branch V1
+   61  git branch
+   62  git checkout V1
+   63  git status
+   64  git status
+   65  git commit -m "adding new Folder imp"
+   66  git add *
+   67  git status
+   68  git status
+   69  git commit -m "adding new Folder imp"
+   70  git status
+   71  git push -f origin https://github.com/saimadhu2017/gitPractice2020June.git
+   72  history
+   73  git push -f origin
+   74  git push -f origin  V1
+   75  git checkout master
+   76  git checkout V2
+   77  dir
+   78  git status
+   79  git checkout V1
+   80  git checkout V2
+   81  git add *
+   82  git status
+   83  git merge V1
+   84  git reset HEAD
+   85  git status
+   86  git add *
+   87  git status
+   88  git reset HEAD
+   89  git status
+   90  git add *
+   91  git status
+   92  git push -f origin V2
+   93  git commit -m "This is another V2 imp"
+   94  git push -f origin V2
+   95  history
