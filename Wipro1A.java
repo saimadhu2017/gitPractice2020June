@@ -1,6 +1,10 @@
 public class Wipro1A{
 	public static void main(String[] args){
 		IciciBank ic=new IciciBank();
+		int i=10;
+		if(i==10){
+			System.out.println("This is Vennket's code");
+		}
 		System.out.println(ic.getFixedInterestRate()+","+ic.getSavingInterestRate());
 		KotMBank ko=new KotMBank();
 		System.out.println(ko.getFixedInterestRate()+","+ko.getSavingInterestRate());
