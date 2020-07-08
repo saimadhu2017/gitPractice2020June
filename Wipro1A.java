@@ -5,6 +5,7 @@ public class Wipro1A{
 		if(i==10){
 			System.out.println("This is Vennket's code");
 		}
+		esle{
 		System.out.println(ic.getFixedInterestRate()+","+ic.getSavingInterestRate());
 		KotMBank ko=new KotMBank();
 		System.out.println(ko.getFixedInterestRate()+","+ko.getSavingInterestRate());
@@ -12,6 +13,7 @@ public class Wipro1A{
 		System.out.println(gk.getFixedInterestRate()+","+gk.getSavingInterestRate());
 		GeneralBank gi=new IciciBank();
 		System.out.println(gi.getFixedInterestRate()+","+gi.getSavingInterestRate());
+		}
 
 	}
 }
